@@ -17,14 +17,16 @@ Then, another line follows containing a single string of N characters; the i-th 
 ### Output
 For each test case, output one line containing Case #x: r c, where x is the test case number (starting from 1), r is the row the robot finishes in and c is the column the robot finishes in.
 
+Memory limit: 1GB.
 ### Limits
-Memory limit: 1GB.<br />
-1 ≤ T ≤ 100.<br />
-1 ≤ R ≤ 5 × 10<sup>4</sup>.<br />
-1 ≤ C ≤ 5 × 10<sup>4</sup>.<br />
-1 ≤ SR ≤ R.<br />
-1 ≤ SC ≤ C.<br />
+```
+1 ≤ T ≤ 100.
+1 ≤ R ≤ 5 × 10<sup>4</sup>.
+1 ≤ C ≤ 5 × 10<sup>4</sup>.
+1 ≤ SR ≤ R.
+1 ≤ SC ≤ C.
 The instructions will not cause the robot to move out of the grid.<br />
+```
 
 Test set 1 (Visible)<br />
 Time limit: 20 seconds.<br />
@@ -37,19 +39,21 @@ Time limit: 60 seconds.<br />
 ### Sample
 
 #### Input
-3<br />
-5 3 6 2 3<br />
-EEWNS<br />
-4 3 3 1 1<br />
-SESE<br />
-11 5 8 3 4<br />
-NEESSWWNESE<br /><br />
-	
+```
+3
+5 3 6 2 3
+EEWNS
+4 3 3 1 1
+SESE
+11 5 8 3 4
+NEESSWWNESE
+```
 #### Output
-Case #1: 3 2<br />
-Case #2: 3 3<br />
-Case #3: 3 7<br />
-
+```
+Case #1: 3 2
+Case #2: 3 3
+Case #3: 3 7
+```
   
 #### Sample Case #1
 Corresponds to the top-left diagram, Sample Case #2 corresponds to the top-right diagram and Sample Case #3 corresponds to the lower diagram. In each diagram, the yellow square is the square the robot starts in, while the green square is the square the robot finishes in.
