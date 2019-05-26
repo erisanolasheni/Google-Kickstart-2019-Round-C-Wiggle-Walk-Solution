@@ -10,7 +10,7 @@ If the robot moves into a square that it has been in before, the robot will cont
 Can you help Banny determine which square the robot will finish in, after following the N instructions?
 
 ### Input
-The first line of the input gives the number of test cases, T. T test cases follow. Each test case starts with a line containing the five integers N, R, C, S<sub>R</sub> and S<sub>C</sup>, the number of instructions, the number of rows, the number of columns, the robot's starting row and starting column, respectively.
+The first line of the input gives the number of test cases, T. T test cases follow. Each test case starts with a line containing the five integers N, R, C, S<sub>R</sub> and S<sub>C</sub>, the number of instructions, the number of rows, the number of columns, the robot's starting row and starting column, respectively.
 
 Then, another line follows containing a single string of N characters; the i-th of these characters is the i-th instruction Banny gives the robot (one of N, S, E or W, as described above).
 
@@ -18,7 +18,6 @@ Then, another line follows containing a single string of N characters; the i-th 
 For each test case, output one line containing Case #x: r c, where x is the test case number (starting from 1), r is the row the robot finishes in and c is the column the robot finishes in.
 
 ### Limits
-```
 
 Memory limit: 1GB.
 1 ≤ T ≤ 100.
@@ -27,8 +26,8 @@ Memory limit: 1GB.
 1 ≤ SR ≤ R.
 1 ≤ SC ≤ C.
 The instructions will not cause the robot to move out of the grid.<br />
-```
-```
+
+<br />
 Test set 1 (Visible)
 Time limit: 20 seconds.<br />
 1 ≤ N ≤ 100.<br />
@@ -36,7 +35,7 @@ Time limit: 20 seconds.<br />
 Test set 2 (Hidden)<br />
 Time limit: 60 seconds.<br />
 1 ≤ N ≤ 5 × 104.<br /><br />
-```
+
 ### Sample
 #### Input
 ```
