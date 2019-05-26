@@ -19,16 +19,16 @@ For each test case, output one line containing Case #x: r c, where x is the test
 
 ### Limits
 
-Memory limit: 1GB.
-1 ≤ T ≤ 100.
-1 ≤ R ≤ 5 × 10<sup>4</sup>.
-1 ≤ C ≤ 5 × 10<sup>4</sup>.
-1 ≤ SR ≤ R.
-1 ≤ SC ≤ C.
+Memory limit: 1GB.<br/>
+1 ≤ T ≤ 100.<br/>
+1 ≤ R ≤ 5 × 10<sup>4</sup>.<br/>
+1 ≤ C ≤ 5 × 10<sup>4</sup>.<br/>
+1 ≤ SR ≤ R.<br/>
+1 ≤ SC ≤ C.<br/>
 The instructions will not cause the robot to move out of the grid.<br />
 
 <br />
-Test set 1 (Visible)
+Test set 1 (Visible)<br/>
 Time limit: 20 seconds.<br />
 1 ≤ N ≤ 100.<br />
 <br />
