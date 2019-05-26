@@ -36,10 +36,7 @@ Time limit: 60 seconds.<br />
 
 ### Sample
 
-Input <br />
- 	
-Output <br />
- 
+#### Input
 3<br />
 5 3 6 2 3<br />
 EEWNS<br />
@@ -47,13 +44,14 @@ EEWNS<br />
 SESE<br />
 11 5 8 3 4<br />
 NEESSWWNESE<br /><br />
-
-  
+	
+#### Output
 Case #1: 3 2<br />
 Case #2: 3 3<br />
 Case #3: 3 7<br />
 
   
-Sample Case #1<br /> corresponds to the top-left diagram, Sample Case #2 corresponds to the top-right diagram and Sample Case #3 corresponds to the lower diagram. In each diagram, the yellow square is the square the robot starts in, while the green square is the square the robot finishes in.
+#### Sample Case #1
+Corresponds to the top-left diagram, Sample Case #2 corresponds to the top-right diagram and Sample Case #3 corresponds to the lower diagram. In each diagram, the yellow square is the square the robot starts in, while the green square is the square the robot finishes in.
 
 <img src="./describe.svg" />
