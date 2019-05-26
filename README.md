@@ -27,17 +27,16 @@ Memory limit: 1GB.
 1 ≤ SC ≤ C.
 The instructions will not cause the robot to move out of the grid.<br />
 ```
-
-Test set 1 (Visible)<br />
+```
+Test set 1 (Visible)
 Time limit: 20 seconds.<br />
 1 ≤ N ≤ 100.<br />
 <br />
 Test set 2 (Hidden)<br />
 Time limit: 60 seconds.<br />
 1 ≤ N ≤ 5 × 104.<br /><br />
-
+```
 ### Sample
-
 #### Input
 ```
 3
